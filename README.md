@@ -1,0 +1,1 @@
+link: GandaTugasPik.github.io
